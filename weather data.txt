@@ -1,0 +1,3 @@
+New York, 70, Sunny, 50
+London, 60, Cloudy, 65
+Tokyo, 75, Rainy, 70
